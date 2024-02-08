@@ -1,0 +1,61 @@
+Git:- 
+    1. Git is a distributed version control system (DVCS) designed for tracking changes in source
+       code during software development.
+    2. It provides functionalities for branching, merging, committing changes, and managing repositories locally.
+    3. Is accessed through a command-line interface (CLI) or GUI clients.
+
+
+GitHub:-
+        1. GitHub is a web-based hosting service for Git repositories.
+        2. It offers additional collaboration features like pull requests,
+           issue tracking, code review, and project management tools.
+        3. GitHub provides a platform for social coding, enabling developers to contribute
+           to open-source projects and collaborate with others worldwide.
+        4. GitHub also offers services like GitHub Actions for continuous
+           integration (CI) and continuous deployment (CD).
+
+Bitbucket:-
+           1. Bitbucket is another web-based hosting service for Git repositories, owned by Atlassian.
+           2. It provides similar features to GitHub, such as repository hosting, pull requests, code review,
+              issue tracking, and integration with other Atlassian products like Jira for project management.
+
+GitLab:-  
+        1. GitLab is a complete DevOps platform built on top of Git.
+        2. It offers features for source code management, CI/CD pipelines,
+           issue tracking, code review, project management, and more
+        3. GitLab provides extensive collaboration and automation capabilities,
+           allowing teams to streamline their development workflows from planning to monitoring.
+
+
+
+Installation:- 
+          link:- https://git-scm.com/downloads
+          allow by default setup
+          check version --------     git version
+
+
+configration:- 
+                Basic comand for setup:-
+
+     configration  --------     git config --global user.name "Rahul Phatangare"
+                                git config --global user.email 'rahul@gmailc.com'
+
+                                if you want to change in config 
+                                 git config --global --edit
+
+
+
+Basic commands 
+
+
+
+
+After creating github account  create repository
+                git init
+                git add README.md
+                git commit -m "first commit"
+                git branch -M main
+                git remote add origin https://github.com/rahulphatangare01/gitassingment.git
+                git push -u origin main
+              
+             
