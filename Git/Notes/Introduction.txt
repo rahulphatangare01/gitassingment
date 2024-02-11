@@ -44,12 +44,6 @@ configration:-
                                  git config --global --edit
 
 
-
-Basic commands 
-
-
-
-
 After creating github account  create repository
                 git init
                 git add README.md
