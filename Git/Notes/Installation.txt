@@ -1,0 +1,4 @@
+Installation:- 
+          link:- https://git-scm.com/downloads
+          allow by default setup
+          check version --------     git version

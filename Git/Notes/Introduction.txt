@@ -27,13 +27,6 @@ GitLab:-
            allowing teams to streamline their development workflows from planning to monitoring.
 
 
-
-Installation:- 
-          link:- https://git-scm.com/downloads
-          allow by default setup
-          check version --------     git version
-
-
 configration:- 
                 Basic comand for setup:-
 
